@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task1.Auto" Collapsed="true">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Car" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.MAZ" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>MAZ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Program" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.SuperCar" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>SuperCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
